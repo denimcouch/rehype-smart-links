@@ -431,7 +431,7 @@ npm test
 
 ### Reporting Issues
 
-If you find a bug or have a feature request, please [open an issue](https://github.com/yourusername/rehype-smart-links/issues) with:
+If you find a bug or have a feature request, please [open an issue](https://github.com/denimcouch/rehype-smart-links/issues) with:
 
 1. A clear description of the problem
 2. Steps to reproduce (or ideally, a test case that fails)
