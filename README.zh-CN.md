@@ -431,7 +431,7 @@ npm test
 
 ### 报告问题
 
-如果你发现bug或有功能请求，请[提交issue](https://github.com/yourusername/rehype-smart-links/issues)，并包含：
+如果你发现bug或有功能请求，请[提交issue](https://github.com/denimcouch/rehype-smart-links/issues)，并包含：
 
 1. 问题的清晰描述
 2. 复现步骤（最好是一个失败的测试用例）
